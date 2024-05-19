@@ -1,4 +1,4 @@
-# Awesome Linux IDEs 
+# Awesome Linux IDEs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Development environments for Linux distributions, although primarily Ubuntu.
 
