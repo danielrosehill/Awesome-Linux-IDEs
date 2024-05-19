@@ -1,4 +1,4 @@
-# Awesome Linux IDEs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Linux IDEs 
 
 Development environments for Linux distributions, although primarily Ubuntu.
 
@@ -12,13 +12,28 @@ Original list compilation by: [Daniel Rosehill](https://www.danielrosehill.com)
 
 📝 This list is non-exhaustive!
 
-Credits:
+### **Credits:**
 
-Markdown badges from [this project](https://github.com/Ileriayo/markdown-badges) by @Ileriayo.
+- Markdown badges:[@Ileriayo](https://github.com/Ileriayo/markdown-badges)
+
+## Contents 
+
+- [Cross Platform IDEs](#cross-platform-ides)
+- [Language and Project-Focused IDEs](#language-and-project-focused-ides)
+- [Kubernetes IDEs & Managers](#kubernetes-ides-and-managers)
+- [Game Development & 3D IDEs](#game-development-ides)
+- [Paid / Commercial IDEs](#paid-and-commercial-ides)
+- [AI Assisted IDEs](#ai-assisted-ides)
+- [Other IDEs](#other-ides)
+- [IDE Components And Add-Ons](#ide-components-and-add-ons) 
+
+---
 
 ## Cross Platform IDEs
 
 Integrated development environments (IDEs) that were either originally cross-platform or developed for other operating systems with Linux support added later.
+
+---
 
 ### [Visual Studio Code (VS Code)](https://code.visualstudio.com/download)
 
@@ -55,6 +70,8 @@ Linux availability via:
 Phoenix Code is the evolution of the Brackets.io project.
 
 It's particularly popular as an IDE for common web languages and markdown formats like HTML, CSS, TypeScript, and JavaScript.
+
+---
 
 **Linux support**
 
@@ -140,7 +157,7 @@ For Linux there is a `.deb` and a `.rpm` installer.
 
 ---
 
-## Language & Project Focused IDEs
+## Language And Project Focused IDEs
 
 IDEs that are intended for those writing one or more programming languages and which support one or more Linux distros
 
@@ -183,6 +200,8 @@ It's also available via
 - The repo of Debian and Debian derivatives including Ubuntu (`sudo apt install thonny`)
 - Fedora (`sudo dnf install thonny`)
 
+---
+
 ### [Wing - Python](https://wingware.com/)
 
 Wing Python IDE was designed from the ground up for Python, for a more productive development experience.
@@ -197,6 +216,8 @@ The IDE is available as an Ubuntu/Debian package, an RPM package, and as a `.tar
 
 Qt Creator is a cross-platform integrated development environment (IDE) tailored for maximum developer productivity. Qt Creator supports the use of coding assistants like GitHub Copilot during programming. It aids developers in creating software for desktop, mobile, and embedded platforms.
 
+---
+
 ### [R Studio Desktop (R)](https://posit.co/download/rstudio-desktop/)
 
 The RStudio integrated development environment (IDE) is a set of tools built to help you be more productive with R and Python.
@@ -206,6 +227,8 @@ R must be installed in order for the program to work.
 For Linux, there are releases for Ubuntu and Debian (`.deb`), Open Suse, and Fedora and Red Hat.
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+
+---
 
 ### [Code::Blocks (C/C++ and Fortran)](https://www.codeblocks.org/#google_vignette)
 
@@ -236,7 +259,11 @@ For Linux there are downloads for:
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
 
-## Kubernetes IDEs / Managers 
+---
+
+## Kubernetes IDEs And Managers
+
+---
 
 ### [Lens](https://k8slens.dev/)
 
@@ -248,6 +275,8 @@ For Linux, it comes available as a:
 - `.rpm`
 - `.snap`
 - `.appimage`
+
+---
 
 ### [Jet Pilot](https://www.jet-pilot.app/)
 
@@ -261,11 +290,15 @@ For releases, see its [Github releases page](https://github.com/unxsist/jet-pilo
 
 In addition to many of the other IDEs in this list, there are some IDEs intended primarily or exclusively for data-related tasks such as Python-assisted data wrangling, data visualisation, or the creation of documentation in scientific-friendly formats. These include:
 
+---
+
 ### [Spyder IDE](https://www.spyder-ide.org/)
 
 "Spyder is a free and open source scientific environment written in Python, for Python, and designed by and for scientists, engineers and data analysts."
 
 The Linux download is via [Anaconda](https://www.anaconda.com/download/).
+
+---
 
 ### [Jupyter IDEs](https://jupyter.org/install)
 
@@ -281,6 +314,8 @@ Arduino IDE is (as the name suggests!) an IDE intended for those working on Ardu
 
 The Linux IDE is available as a `.zip` and as an `.appimage`
 
+---
+
 ### [Android Studio](https://developer.android.com/studio)
 
 Android Studio is the most popular Android IDE in the world.
@@ -290,6 +325,8 @@ Google offers full native Linux support for the product including its components
 ---
 
 ## Game Development IDEs
+
+---
 
 ### [Unity](https://unity.com/download)
 
@@ -303,6 +340,8 @@ Linux support is currently listed as:
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0) ![Rocky Linux](https://img.shields.io/badge/-Rocky%20Linux-%2310B981?style=for-the-badge&logo=rockylinux&logoColor=white)
 
+---
+
 ### [Godot Engine](https://godotengine.org/download/linux/)
 
 "Your free, open‑source game engine. Develop your 2D & 3D games, cross-platform projects, or even XR ideas!"
@@ -313,6 +352,8 @@ Linux download formats include:
 - x86
 - .NET - Standard (x86_64)
 
+---
+
 ### [Defold](https://defold.com/)
 
 "The game engine for high-performance cross-platform games"
@@ -320,6 +361,8 @@ Linux download formats include:
 The Linux version is available for Ubuntu.
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+---
 
 ### [Open 3D Engine (O3DE)](https://o3de.org/download/)
 
@@ -331,15 +374,21 @@ Linux: available for Ubuntu 20.04 LTS.
 
 ---
 
-## Paid / Commercial IDEs
+## Paid And Commercial IDEs
+
+---
 
 ### [GNAT Studio](https://www.adacore.com/gnatpro/toolsuite/gnatstudio)
 
 GNAT Studio is a multi-language IDE with advanced support out-of-the-box for Ada, SPARK, C, C++ and Python.
 
-## AI-Assisted IDEs
+---
+
+## AI Assisted IDEs
 
 A category that's likely to see a lot of growth in coming years with the growth of interest in everything related to artificial intelligence.
+
+---
 
 ### [Cursor](https://cursor.sh/)
 
@@ -351,11 +400,17 @@ Its Linux product is an `.appimage.`
 
 (Note: many cloud IDEs like Github Copilot offer AI enhancements).
 
+---
+
 ### [TabNine (Via VS Code Addon)](https://www.tabnine.com/install/)
 
 TabNine offers AI-generated code suggestions and can be integrated with a number of IDEs with native Linux support, foremost among them VS Code.
 
+---
+
 ## Other IDEs
+
+---
 
 ### [NEOVim](https://neovim.io/)
 
@@ -365,6 +420,8 @@ TabNine offers AI-generated code suggestions and can be integrated with a number
 
 ## IDE Components And Add-Ons
 
+---
+
 ### Code Snippet Managers
 
 - [Codiga Code Snippet Manager](https://www.codiga.io/get-codiga/linux/)
@@ -373,7 +430,9 @@ TabNine offers AI-generated code suggestions and can be integrated with a number
 
 ---
 
-## Cloud IDEs ('CDEs')
+## Cloud IDEs
+
+(CDEs)
 
 One major advantage of cloud-hosted IDEs for Linux users is that they're OS-agnostic right out of the box.
 
