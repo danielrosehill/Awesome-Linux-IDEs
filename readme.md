@@ -1,6 +1,8 @@
-Awesome Linux IDEs [](https://awesome.re)
+# Awesome Linux IDEs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Development environments for Linux distributions, although primarily Ubuntu.
+
+Original list compilation by: [Daniel Rosehill](https://www.danielrosehill.com)
 
 ### Notes:
 
@@ -13,11 +15,6 @@ Development environments for Linux distributions, although primarily Ubuntu.
 Credits:
 
 Markdown badges from [this project](https://github.com/Ileriayo/markdown-badges) by @Ileriayo.
-
-## Contents
-
-- [Cross platform](#cross-platform)
-- [Cross platform](#cross-platform)
 
 ## Cross Platform IDEs
 
@@ -384,6 +381,6 @@ Popular and growing cloud IDEs include Github Spaces, Browxy, and Code Pen (amon
 
 For an excellent list of online/cloud IDEs, see [awesome-online-ide](https://github.com/styfle/awesome-online-ide).
 
-## Contribute
+## Updates, Contributions
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+If you'd like to add an IDE with native Linux support, please either create a pull request or [drop me a line](https://www.danielrosehill.com).
