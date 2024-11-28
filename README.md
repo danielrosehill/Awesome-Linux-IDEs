@@ -1,5 +1,7 @@
 # Awesome Linux IDEs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+![alt text](images/image.png)
+
 [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?logo=github&logoColor=white)](https://github.com/danielrosehill/Awesome-Linux-IDEs)
 
 Development environments for Linux distributions, although primarily Ubuntu.
